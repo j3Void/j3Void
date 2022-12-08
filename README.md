@@ -1,0 +1,3 @@
+- 👋 Hi, I’m j3Void
+- 👀 I’m interested in python, penetration testing, and A.I.
+- 🌱 I’m currently learning how to make an A.I. in python.
